@@ -1,0 +1,38 @@
+/* pages/7-12-detail/7-12-detail.wxss */
+
+.v1{
+  width: 90%;
+  margin: 20rpx auto;
+  display: flex;
+  background-color: blueviolet;
+}
+
+
+.v2{
+
+  margin: 10rpx 15rpx 10rpx 15rpx;
+  display: flex;
+  flex-direction: column;
+  flex:1;
+  background-color: cadetblue;
+}
+
+
+.i1{
+  width: 260rpx;
+  height: 385rpx;
+}
+
+.t1{
+  font-size: 40rpx;
+  margin: 5rpx 5rpx;
+  background-color: chartreuse;
+}
+.t2{
+  font-style: italic;
+  margin: 5rpx 5rpx;
+}
+
+.t3{
+  margin: 5rpx 5rpx;
+}

@@ -1,0 +1,46 @@
+<!--pages/7-12-2/7-12-2.wxml-->
+
+<view class="v1" wx:for='{{listjson}}' bindtap="todetail" data-filmid="{{item.id}}" data-filmname="{{item.title}}">
+  <image class="i1" src="{{item.cover.url}}"></image>
+  <text class="t1">{{item.title}}</text>
+</view>
+
+<!--
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影名称</text>
+</view>
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影名称</text>
+</view>
+
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影名称</text>
+</view>
+
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影就会借款还款计划名称</text>
+</view>
+
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影名称</text>
+</view>
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影名称</text>
+</view>
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg"></image>
+  <text class="t1">电影名称</text>
+</view>
+-->

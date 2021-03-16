@@ -1,0 +1,6 @@
+<!--pages/7-12-2.1/7-12-2.1.wxml-->
+
+<view class="v1" wx:for='{{listjson}}' bindtap="todetail" data-filmid="{{item.id}}" data-filmname="{{item.title}}">
+  <image class="i1" src="{{item.cover.url}}"></image>
+  <text class="t1">{{item.title}}</text>
+</view>

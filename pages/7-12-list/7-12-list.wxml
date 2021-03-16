@@ -1,0 +1,19 @@
+<!--pages/7-12-detail/7-12-detail.wxml-->
+
+<view class="v1">
+  <image class="i1" src="/image/truman.jpg" ></image>
+  <view class="v2">
+    <text class="t1">电影标题</text>
+    <text class="t2">主演</text>
+    <text class="t3">简介：斤斤计较急急急急急急急急急急急急急急急斤斤计较急急急急急急急急急急急急急急急斤斤计较急急急急急急急急急急急急急急急</text>
+  </view>
+  </view>
+
+  <view class="v1">
+  <image class="i1" src="/image/truman.jpg" ></image>
+  <view class="v2">
+    <text class="t1">电影标题</text>
+    <text class="t2">主演</text>
+    <text class="t3">简介：斤斤计较急急急急急急急急急急急急急急急斤斤计较急急急急急急急急急急急急急急急斤斤计较急急急急急急急急急急急急急急急</text>
+  </view>
+  </view>

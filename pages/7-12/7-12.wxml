@@ -1,0 +1,12 @@
+<!--pages/7-12/7-12.wxml-->
+
+<view class="v1">
+  <text class="t1">豆瓣榜单合集</text>
+  <text class="t2">最多最新的电影信息合集</text>
+</view>
+
+<view class="v2" wx:for="{{list}}" bindtap="search" data-listname="{{item}}">
+  <text class="t3">{{item}}</text>
+  <image src="/image/right.png"></image>
+</view>
+

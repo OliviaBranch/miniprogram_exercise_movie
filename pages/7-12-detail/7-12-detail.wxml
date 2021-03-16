@@ -1,0 +1,10 @@
+
+<view class="v1">
+  <image class="i1" src="{{detail.cover.image.large.url}}"></image>
+  <text class="name">{{detail.title}}</text>
+  <text class="score">看过：{{detail.rating.count}}</text>
+  <text class="score">评分：{{detail.rating.value}}</text>
+  <text class="word">简介：{{detail.intro}}</text>
+</view>
+
+

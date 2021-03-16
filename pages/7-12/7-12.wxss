@@ -1,0 +1,41 @@
+/* pages/7-12/7-12.wxss */
+
+.v1{
+  width: 60%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 50rpx auto 0 auto;
+}
+
+.v2{
+  width: 80%;
+  height: 55rpx;
+  display: flex;
+  margin: 40rpx auto;
+  background-color: lightyellow;
+}
+
+.t1{
+  font-size: 46rpx;
+  margin-bottom: 15rpx;
+}
+
+.t2{
+  font-size: 24rpx;
+  color: grey;
+}
+
+.t3{
+  height: 52rpx;
+  flex: 1;
+  padding: 3rpx 0 3rpx 23rpx ;
+  line-height: 52rpx;
+}
+
+
+image{
+  width: 50rpx;
+  height: 50rpx;
+  padding: 3rpx 13rpx 3rpx 0 ;
+}
